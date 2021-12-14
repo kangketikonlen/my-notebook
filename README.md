@@ -7,6 +7,7 @@
  </samp>
  <br />
  <img src="https://raw.githubusercontent.com/kangketikonlen/kangketikonlen/main/assets/watollie.gif" width="200"/><br />
+ <img src="https://img.shields.io/github/last-commit/kangketikonlen/my-notebook?style=flat-square" /><br />
 </p>
 
 <samp>
